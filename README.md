@@ -1,2 +1,2 @@
-# Projeto feito de forma didatica, fiz para testar meus conhecimentos em Html css javascript e react
-# o mesmo ainda nao foi terminado
+# Projeto feito de forma didática, fiz para testar meus conhecimentos em Html css javascript e react
+# O mesmo ainda não foi terminado
