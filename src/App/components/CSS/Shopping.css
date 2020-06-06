@@ -1,0 +1,25 @@
+.shopping {
+  margin: 10px solid red;
+}
+
+.shopping-caixa {
+  display: inline-block;
+  width: 49%;
+  text-align: center;
+}
+
+.shoppin-titulo {
+  border-radius: 3px 3px 0px 0px;
+  padding-top: 2px;
+  font-size: 18px;
+  height: 30px;
+  color: white;
+  background-color: #333333;
+  margin-bottom: 1px;
+}
+
+.shopping-info {
+  border-radius: 0px 0px 3px 3px;
+  background-color: #dfe1e3;
+  padding: 3px;
+}

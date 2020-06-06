@@ -1,0 +1,32 @@
+.menu-squerdo {
+  display: inline-block;
+  float: left;
+  margin-right: 10px;
+}
+
+.menu-squerdo-padrao {
+  background-color: rgb(53, 56, 58);
+  width: 240px;
+  border-radius: 3px;
+  padding: 3px;
+}
+
+.btn-group-vertical .btn-menu-vertical {
+  margin-bottom: 3px;
+  border-radius: 2px;
+  width: 232px;
+  height: 40px;
+}
+
+.menu-squerdo-shop {
+  height: 390px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.menu-squerdo-status {
+  height: 60px;
+  text-align: center;
+  padding-top: 18px;
+  color: white;
+}

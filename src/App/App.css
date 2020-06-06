@@ -1,0 +1,11 @@
+body {
+  background-color: #282828;
+}
+
+.pagina {
+  width: 1000px;
+  margin: auto;
+  background-color: rgb(146, 151, 156);
+  height: 1370px;
+  padding: 5px;
+}

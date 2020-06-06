@@ -1,0 +1,11 @@
+.caixaConteudo {
+  display: inline-block;
+  border-radius: 3px;
+  background-color: white;
+  width: 740px;
+  padding: 3px;
+}
+
+.alert {
+  font-weight: 700;
+}
